@@ -44,6 +44,16 @@ body{
     max-width: 525px;
 }
 
+@media screen and (min-width: 600px) {
+    .top-section h1 {
+        font-size: 6.25rem;
+    }
+
+    .top-section {
+        padding-top: 139px;
+        padding-bottom: 139px;
+    }
+}
 
 .intro-text {
     font-size: 1.25rem;
@@ -54,6 +64,12 @@ body{
 
 .intro-buttons {
     margin-bottom: 129px;
+}
+
+@media screen and (min-width: 600px) {
+    .intro-buttons {
+        margin-bottom: 80px;
+    }
 }
 
 .our-btn {
