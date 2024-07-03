@@ -7,4 +7,8 @@ async function start() {
     
 }
 
+<<<<<<< HEAD
 start()
+=======
+start()
+>>>>>>> 5069b8cda76c3b3bc96f6b92a1f789220119ea17
